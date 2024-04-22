@@ -1,0 +1,16 @@
+{
+  "author": "AnimeTrace(JP)",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "description": "This extensions used to identified anime image",
+  "icons": {
+    "128": "image.png",
+    "16": "image.png",
+    "48": "image.png"
+  },
+  "manifest_version": 3,
+  "name": "使用AnimeTrace进行动画识别",
+  "permissions": ["contextMenus", "activeTab", "tabs"],
+  "version": "1.0.0"
+}
